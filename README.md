@@ -23,7 +23,7 @@
  </tr>
 </table>
 
-# Project explanation
+# Brief Project explanation
 <h3 align="center">
   <img src="./SlideShow/Diapositiva1.PNG" />
   <img src="./SlideShow/Diapositiva2.PNG" />
